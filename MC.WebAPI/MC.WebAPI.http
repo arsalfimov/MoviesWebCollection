@@ -1,0 +1,6 @@
+@MC.WebAPI_HostAddress = http://localhost:5171
+
+GET {{MC.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
